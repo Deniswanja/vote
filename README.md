@@ -1,2 +1,11 @@
-# vote
-this is  WEBSITE that will enable any to vote once he or has logged in .You only need to have your email and your password and you will be able to access the site so as you can vote for your students leader.
+# ONLINE-VOTING-SYSTEM-in-PHP-MYSQL
+
+
+
+This system allows all registered users to vote for their favorite PROGRAMMING LANGUAGE.
+In order to make a vote you have to register first and then login.
+
+more projects visit - https://projectworlds.in
+
+YouTube - https://youtu.be/mQiLqIhWXxM
+
